@@ -1,5 +1,5 @@
 # Teles2003.github.io
-# Portifolio
+
 # Portfólio de Amanda
 
 Este é o meu portfólio pessoal, onde compartilho informações sobre mim, meu trabalho e projetos pessoais.
